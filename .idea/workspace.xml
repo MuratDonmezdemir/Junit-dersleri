@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd727e7a-c3c5-46f5-ad25-e2592a536014" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C05_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_maven/C01_mevenIleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_maven/C02_FarkliBirWebDriverVerilirse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_maven/C03_JUnit_TestNotasyonu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C01_SetupVeTeardownMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C02_BeforeVeAfterNotasyonlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C03_BeforeVeAfterNotasyonlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C04_OtomatikSonucRaporlama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2lw8Ad44pg0sxo8CS684D8QQT3n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.C01_mevenIleTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C02_FarkliBirWebDriverVerilirse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_SetupVeTeardownMethodlari.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_BeforeVeAfterNotasyonlari (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_BeforeVeAfterNotasyonlari.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_BeforeVeAfterNotasyonlari.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_BeforeVeAfterNotasyonlari.test03.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_JUnit_TestNotasyonu.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_JUnit_TestNotasyonu.test02.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_JUnit_TestNotasyonu.test03.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/JavaDemos/variable/Team145_JUnit/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.C03_BeforeVeAfterNotasyonlari (1)">
+    <configuration name="C01_SetupVeTeardownMethodlari" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day06_jUnitFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day06_jUnitFramework" />
+      <option name="MAIN_CLASS_NAME" value="day06_jUnitFramework.C01_SetupVeTeardownMethodlari" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_BeforeVeAfterNotasyonlari" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C03_BeforeVeAfterNotasyonlari" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_BeforeVeAfterNotasyonlari" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day06_jUnitFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day06_jUnitFramework" />
+      <option name="MAIN_CLASS_NAME" value="day06_jUnitFramework.C03_BeforeVeAfterNotasyonlari" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_BeforeVeAfterNotasyonlari.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C03_BeforeVeAfterNotasyonlari" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_BeforeVeAfterNotasyonlari.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C03_BeforeVeAfterNotasyonlari" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.C03_BeforeVeAfterNotasyonlari (1)" />
+        <item itemvalue="JUnit.C03_BeforeVeAfterNotasyonlari.test01" />
+        <item itemvalue="JUnit.C03_BeforeVeAfterNotasyonlari" />
+        <item itemvalue="JUnit.C03_BeforeVeAfterNotasyonlari.test03" />
+        <item itemvalue="JUnit.C01_SetupVeTeardownMethodlari" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd727e7a-c3c5-46f5-ad25-e2592a536014" name="Changes" comment="" />
+      <created>1726079638508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726079638508</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C02_BeforeVeAfterNotasyonlari.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
