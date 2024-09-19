@@ -1,6 +1,5 @@
 package utilities;
 
-import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
@@ -9,7 +8,8 @@ import java.util.List;
 import java.util.Set;
 
 public class ReusableMethods {
-
+    public static void switchToWindow(WebDriver driver, String s) {
+    }
 
     // Webelement'lerden olusan listeyi,
     // String'lerden olusan listeye ceviren bir method olusturalim
@@ -64,6 +64,5 @@ public class ReusableMethods {
         }
     }
 
-    public static void switchToWindow(WebDriver driver, String newWindow) {
-    }
+
 }

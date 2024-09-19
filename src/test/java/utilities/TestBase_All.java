@@ -10,7 +10,7 @@ import java.time.Duration;
 
 public class TestBase_All {
 
-    public static WebDriver driver;
+    protected static WebDriver driver;
 
     @BeforeAll
     public static void setup(){
