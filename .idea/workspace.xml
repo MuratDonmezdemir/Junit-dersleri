@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd727e7a-c3c5-46f5-ad25-e2592a536014" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C01_FileExistTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C02_DosyaYolunuDinamikhaleGetirme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C03_FileUploadTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/c04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/funnyImage.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/day09_switchingWindows_actions/C05_KontrolsuzAcilanWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day09_switchingWindows_actions/C05_KontrolsuzAcilanWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase_All.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase_All.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C07_FakeBilgilerleFormDoldurma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C07_FakeBilgilerleFormDoldurma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +60,8 @@
     "JUnit.C01_AssertionVeTeardown.executor": "Run",
     "JUnit.C01_DoubleClick.executor": "Run",
     "JUnit.C01_DoubleClick.test01.executor": "Run",
+    "JUnit.C01_FileExistTesti.executor": "Run",
+    "JUnit.C01_FileExistTesti.test01.executor": "Run",
     "JUnit.C01_JsAlerts.executor": "Run",
     "JUnit.C01_SetupVeTeardownMethodlari.executor": "Run",
     "JUnit.C01_SetupVeTeardownMethodlari.wisequarterTesti.executor": "Run",
@@ -64,6 +70,9 @@
     "JUnit.C01_Windows_SayfaKarsilastirmasi.test01.executor": "Run",
     "JUnit.C02_Assertions.executor": "Run",
     "JUnit.C02_BeforeVeAfterNotasyonlari.executor": "Run",
+    "JUnit.C02_DosyaYolunuDinamikHaleGetirme.executor": "Run",
+    "JUnit.C02_DosyaYolunuDinamikHaleGetirme.test01.executor": "Run",
+    "JUnit.C02_DosyaYolunuDinamikhaleGetirme.executor": "Run",
     "JUnit.C02_DragAndDrop.executor": "Run",
     "JUnit.C02_JsAlerts.executor": "Run",
     "JUnit.C02_YeniWindowOlusturma.executor": "Run",
@@ -75,6 +84,8 @@
     "JUnit.C03_BeforeVeAfterNotasyonlari.executor": "Run",
     "JUnit.C03_BeforeVeAfterNotasyonlari.test01.executor": "Run",
     "JUnit.C03_BeforeVeAfterNotasyonlari.test03.executor": "Run",
+    "JUnit.C03_FileUploadTesti.executor": "Run",
+    "JUnit.C03_FileUploadTesti.test01.executor": "Run",
     "JUnit.C03_JUnit_TestNotasyonu.test01.executor": "Run",
     "JUnit.C03_JUnit_TestNotasyonu.test02.executor": "Run",
     "JUnit.C03_JUnit_TestNotasyonu.test03.executor": "Run",
@@ -87,6 +98,8 @@
     "JUnit.C04_KeyboardActions.executor": "Run",
     "JUnit.C04_OtomatikSonucRaporlama.executor": "Run",
     "JUnit.C05_Assertions.executor": "Run",
+    "JUnit.C05_KontrolsuzAcilanWindow.executor": "Run",
+    "JUnit.C05_KontrolsuzAcilanWindow.test01.executor": "Run",
     "JUnit.C05_RadioButton.executor": "Run",
     "JUnit.C05_RadioButton.yazidanSecmeTesti.executor": "Run",
     "JUnit.C05_iFrame.executor": "Run",
@@ -94,9 +107,11 @@
     "JUnit.C05_iframe.executor": "Run",
     "JUnit.C05_iframe.test01.executor": "Run",
     "JUnit.C06_DropdownMenu.dropdownMenuTesti.executor": "Run",
+    "JUnit.C06_FakerClass.executor": "Run",
     "JUnit.C07_DropdownMenu.dropdownMenuTesti.executor": "Run",
     "JUnit.C07_DropdownMenu.executor": "Run",
     "JUnit.C07_FakeBilgilerleFormDoldurma.executor": "Run",
+    "JUnit.C07_FakeBilgilerleFormDoldurma.test01.executor": "Run",
     "JUnit.JUnitTestAutomation.executor": "Run",
     "JUnit.JUnitTestAutomation.testSignUpAndLogin.executor": "Run",
     "JUnit.P01_Notasyon.executor": "Run",
@@ -122,94 +137,98 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="day07_assertions_testBaseClass" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JavaDemos\variable\Team145_JUnit\src\test\java\day11_fileTestleri_Waits" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C01_Window_SayfaKarsilastirmasi">
-    <configuration name="C01_DoubleClick" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C01_FileExistTesti">
+    <configuration name="C01_FileExistTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_actionsClass.*" />
+          <option name="PATTERN" value="day11_fileTestleri_Waits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day10_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="day10_actionsClass.C01_DoubleClick" />
+      <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
+      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C01_FileExistTesti" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_DoubleClick.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_FileExistTesti.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_actionsClass.*" />
+          <option name="PATTERN" value="day11_fileTestleri_Waits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day10_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="day10_actionsClass.C01_DoubleClick" />
+      <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
+      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C01_FileExistTesti" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Window_SayfaKarsilastirmasi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_DosyaYolunuDinamikhaleGetirme" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_switchingWindows_actions.*" />
+          <option name="PATTERN" value="day11_fileTestleri_Waits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day09_switchingWindows_actions" />
-      <option name="MAIN_CLASS_NAME" value="day09_switchingWindows_actions.C01_Window_SayfaKarsilastirmasi" />
+      <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
+      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C02_DosyaYolunuDinamikhaleGetirme" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_KeyboardActions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_FileUploadTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_actionsClass.*" />
+          <option name="PATTERN" value="day11_fileTestleri_Waits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day10_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="day10_actionsClass.C04_KeyboardActions" />
+      <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
+      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C03_FileUploadTesti" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_FakeBilgilerleFormDoldurma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_FileUploadTesti.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_actionsClass.*" />
+          <option name="PATTERN" value="day11_fileTestleri_Waits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day10_actionsClass" />
-      <option name="MAIN_CLASS_NAME" value="day10_actionsClass.C07_FakeBilgilerleFormDoldurma" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
+      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C03_FileUploadTesti" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C01_Window_SayfaKarsilastirmasi" />
-        <item itemvalue="JUnit.C01_DoubleClick" />
-        <item itemvalue="JUnit.C07_FakeBilgilerleFormDoldurma" />
-        <item itemvalue="JUnit.C01_DoubleClick.test01" />
-        <item itemvalue="JUnit.C04_KeyboardActions" />
+        <item itemvalue="JUnit.C01_FileExistTesti" />
+        <item itemvalue="JUnit.C03_FileUploadTesti.test01" />
+        <item itemvalue="JUnit.C01_FileExistTesti.test01" />
+        <item itemvalue="JUnit.C02_DosyaYolunuDinamikhaleGetirme" />
+        <item itemvalue="JUnit.C03_FileUploadTesti" />
       </list>
     </recent_temporary>
   </component>
