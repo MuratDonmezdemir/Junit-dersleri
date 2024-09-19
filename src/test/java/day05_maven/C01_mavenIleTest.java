@@ -1,30 +1,28 @@
 package day05_maven;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import utilities.ReusableMethods;
 
 import java.time.Duration;
 
-public class C02_FarkliBirWebDriverVerilirse {
+public class C01_mavenIleTest {
 
     public static void main(String[] args) {
 
-        // calistigimiz sirket bize Selenium WebDriver disinda bir Webdriver verirse
-        // verilen dosyayi pom.xml'e ekleriz
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("user-data-dir=C:/path/to/your/custom/profile");
 
-        WebDriverManager.chromedriver().setup();
-        WebDriver driver = new ChromeDriver();
+        WebDriver driver = new ChromeDriver(options);
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+
 
         driver.get("https://www.testotomasyonu.com");
 
 
         ReusableMethods.bekle(3);
         driver.quit();
-
-
     }
 }

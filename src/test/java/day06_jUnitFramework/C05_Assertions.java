@@ -38,7 +38,7 @@ public class C05_Assertions {
         // Assertions.assertTrue(expectedTitle.equals(actualTitle));
         // equals method'u expected ve actual'i raporladigindan daha cok tercih edilir
 
-        ReusableMethods.bekle(3);
+        ReusableMethods.bekle(2);
         driver.quit();
     }
 }

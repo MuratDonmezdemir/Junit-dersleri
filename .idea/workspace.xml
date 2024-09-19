@@ -5,23 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd727e7a-c3c5-46f5-ad25-e2592a536014" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C05_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_maven/C01_mevenIleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_maven/C02_FarkliBirWebDriverVerilirse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_maven/C03_JUnit_TestNotasyonu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C01_SetupVeTeardownMethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C02_BeforeVeAfterNotasyonlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C03_BeforeVeAfterNotasyonlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C04_OtomatikSonucRaporlama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MacAnalizProjem/beta1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/P01_Notasyon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/P02_Notasyon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/P03_SignInTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/P03_buSoruCoz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07/C02_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07/C03_TestBaseKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions_testBaseClass/C05_RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions_testBaseClass/C06_DropdownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions_testBaseClass/C07_DropdownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day07_assertions_testBaseClass/TestBase_All.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_jsAlerts_Iframe/C01_JsAlerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_jsAlerts_Iframe/C02_JsAlerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_jsAlerts_Iframe/C04_IFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day08_jsAlerts_Iframe/C05_iFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_switchingWindows_actions/C01_Window_SayfaKarsilastirmasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_switchingWindows_actions/C02_YeniWindowOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_switchingWindows_actions/C03_KontrolsuzAcilanWindowlarArasiGecis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_switchingWindows_actions/C04_AcilanWindowTitlelariniYazdirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_switchingWindows_actions/C05_KontrolsuzAcilanWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_switchingWindows_actions/C06_KontrolsuzWindowGecisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C01_DoubleClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C02_DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C03_MoveToElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C04_KeyboardActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C05_FormDoldurma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C06_FakerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C07_FakeBilgilerleFormDoldurma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase_All.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase_Each.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day05_maven/C01_mevenIleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_maven/C01_mavenIleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day05_maven/C02_FarkliBirWebDriverVerilirse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_maven/C02_FarkliBirWebDriverVerilirse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day05_maven/C03_JUnit_TestNotasyonu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_maven/C03_JUnit_TestNotasyonu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C04_OtomatikSonucRaporlama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C04_OtomatikSonucRaporlama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C05_Assertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C05_Assertions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day07/C01_AssertionVeTeardown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day07/C01_AssertionVeTeardown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,101 +70,169 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.C01_mevenIleTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.C02_FarkliBirWebDriverVerilirse.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.C01_SetupVeTeardownMethodlari.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.C03_BeforeVeAfterNotasyonlari (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.C03_BeforeVeAfterNotasyonlari.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.C03_BeforeVeAfterNotasyonlari.test01.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.C03_BeforeVeAfterNotasyonlari.test03.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.C03_JUnit_TestNotasyonu.test01.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.C03_JUnit_TestNotasyonu.test02.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.C03_JUnit_TestNotasyonu.test03.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/JavaDemos/variable/Team145_JUnit/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.C01_mevenIleTest.executor": "Run",
+    "Application.C02_FarkliBirWebDriverVerilirse.executor": "Run",
+    "Application.C02_FarkliBirWebDriverVerilirse2.executor": "Run",
+    "Application.P10_buSoruCozulecek.executor": "Run",
+    "JUnit.C01_AssertionVeTeardown.executor": "Run",
+    "JUnit.C01_DoubleClick.executor": "Run",
+    "JUnit.C01_DoubleClick.test01.executor": "Run",
+    "JUnit.C01_JsAlerts.executor": "Run",
+    "JUnit.C01_SetupVeTeardownMethodlari.executor": "Run",
+    "JUnit.C01_SetupVeTeardownMethodlari.wisequarterTesti.executor": "Run",
+    "JUnit.C01_Window_SayfaKarsilastirmasi.executor": "Run",
+    "JUnit.C01_Window_SayfaKarsilastirmasi.test01.executor": "Run",
+    "JUnit.C01_Windows_SayfaKarsilastirmasi.test01.executor": "Run",
+    "JUnit.C02_Assertions.executor": "Run",
+    "JUnit.C02_BeforeVeAfterNotasyonlari.executor": "Run",
+    "JUnit.C02_DragAndDrop.executor": "Run",
+    "JUnit.C02_JsAlerts.executor": "Run",
+    "JUnit.C02_YeniWindowOlusturma.executor": "Run",
+    "JUnit.C02_jsAlerts.executor": "Run",
+    "JUnit.C02_jsAlerts.test01.executor": "Run",
+    "JUnit.C03_BasicAuthentication.executor": "Run",
+    "JUnit.C03_BasicAuthentication.test01.executor": "Run",
+    "JUnit.C03_BeforeVeAfterNotasyonlari (1).executor": "Run",
+    "JUnit.C03_BeforeVeAfterNotasyonlari.executor": "Run",
+    "JUnit.C03_BeforeVeAfterNotasyonlari.test01.executor": "Run",
+    "JUnit.C03_BeforeVeAfterNotasyonlari.test03.executor": "Run",
+    "JUnit.C03_JUnit_TestNotasyonu.test01.executor": "Run",
+    "JUnit.C03_JUnit_TestNotasyonu.test02.executor": "Run",
+    "JUnit.C03_JUnit_TestNotasyonu.test03.executor": "Run",
+    "JUnit.C03_MoveToElement.executor": "Run",
+    "JUnit.C03_TestBaseKullanimi.aramaTesti.executor": "Run",
+    "JUnit.C03_TestBaseKullanimi.executor": "Run",
+    "JUnit.C04_CheckBox.executor": "Run",
+    "JUnit.C04_IFrame.test01.executor": "Run",
+    "JUnit.C04_Iframe.test01.executor": "Run",
+    "JUnit.C04_KeyboardActions.executor": "Run",
+    "JUnit.C04_OtomatikSonucRaporlama.executor": "Run",
+    "JUnit.C05_Assertions.executor": "Run",
+    "JUnit.C05_RadioButton.executor": "Run",
+    "JUnit.C05_RadioButton.yazidanSecmeTesti.executor": "Run",
+    "JUnit.C05_iFrame.executor": "Run",
+    "JUnit.C05_iFrame.test01.executor": "Run",
+    "JUnit.C05_iframe.executor": "Run",
+    "JUnit.C05_iframe.test01.executor": "Run",
+    "JUnit.C06_DropdownMenu.dropdownMenuTesti.executor": "Run",
+    "JUnit.C07_DropdownMenu.dropdownMenuTesti.executor": "Run",
+    "JUnit.C07_DropdownMenu.executor": "Run",
+    "JUnit.JUnitTestAutomation.executor": "Run",
+    "JUnit.JUnitTestAutomation.testSignUpAndLogin.executor": "Run",
+    "JUnit.P01_Notasyon.executor": "Run",
+    "JUnit.P01_Notasyon.testC.executor": "Run",
+    "JUnit.P02_Notasyon.executor": "Run",
+    "JUnit.P02_Notasyon2.executor": "Run",
+    "JUnit.P03_SignInTest.executor": "Run",
+    "JUnit.P03_SignInTest.negatifLogin.executor": "Run",
+    "JUnit.P03_SignInTest1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/JavaDemos/variable/Team145_JUnit/src/test/java",
+    "onboarding.tips.debug.path": "C:/JavaDemos/variable/Team145_JUnit/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day07_assertions_testBaseClass" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C03_BeforeVeAfterNotasyonlari (1)">
-    <configuration name="C01_SetupVeTeardownMethodlari" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C01_DoubleClick.test01">
+    <configuration name="C01_DoubleClick.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06_jUnitFramework.*" />
+          <option name="PATTERN" value="day10_actionsClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day06_jUnitFramework" />
-      <option name="MAIN_CLASS_NAME" value="day06_jUnitFramework.C01_SetupVeTeardownMethodlari" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_BeforeVeAfterNotasyonlari" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team145_JUnit" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C03_BeforeVeAfterNotasyonlari" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_BeforeVeAfterNotasyonlari" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team145_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day06_jUnitFramework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day06_jUnitFramework" />
-      <option name="MAIN_CLASS_NAME" value="day06_jUnitFramework.C03_BeforeVeAfterNotasyonlari" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_BeforeVeAfterNotasyonlari.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team145_JUnit" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C03_BeforeVeAfterNotasyonlari" />
+      <option name="PACKAGE_NAME" value="day10_actionsClass" />
+      <option name="MAIN_CLASS_NAME" value="day10_actionsClass.C01_DoubleClick" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_BeforeVeAfterNotasyonlari.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_Window_SayfaKarsilastirmasi.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C03_BeforeVeAfterNotasyonlari" />
-      <option name="METHOD_NAME" value="test03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day09_switchingWindows_actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day09_switchingWindows_actions" />
+      <option name="MAIN_CLASS_NAME" value="day09_switchingWindows_actions.C01_Window_SayfaKarsilastirmasi" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_DragAndDrop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10_actionsClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day10_actionsClass" />
+      <option name="MAIN_CLASS_NAME" value="day10_actionsClass.C02_DragAndDrop" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_MoveToElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10_actionsClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day10_actionsClass" />
+      <option name="MAIN_CLASS_NAME" value="day10_actionsClass.C03_MoveToElement" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_KeyboardActions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10_actionsClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day10_actionsClass" />
+      <option name="MAIN_CLASS_NAME" value="day10_actionsClass.C04_KeyboardActions" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C03_BeforeVeAfterNotasyonlari (1)" />
-        <item itemvalue="JUnit.C03_BeforeVeAfterNotasyonlari.test01" />
-        <item itemvalue="JUnit.C03_BeforeVeAfterNotasyonlari" />
-        <item itemvalue="JUnit.C03_BeforeVeAfterNotasyonlari.test03" />
-        <item itemvalue="JUnit.C01_SetupVeTeardownMethodlari" />
+        <item itemvalue="JUnit.C01_DoubleClick.test01" />
+        <item itemvalue="JUnit.C04_KeyboardActions" />
+        <item itemvalue="JUnit.C03_MoveToElement" />
+        <item itemvalue="JUnit.C01_Window_SayfaKarsilastirmasi.test01" />
+        <item itemvalue="JUnit.C02_DragAndDrop" />
       </list>
     </recent_temporary>
   </component>
@@ -164,11 +254,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/day06_jUnitFramework/C02_BeforeVeAfterNotasyonlari.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
