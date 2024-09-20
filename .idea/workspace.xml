@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd727e7a-c3c5-46f5-ad25-e2592a536014" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C01_FileExistTesti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C02_DosyaYolunuDinamikhaleGetirme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C03_FileUploadTesti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/c04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/funnyImage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C04_ImplicitlyWaitIleBekleme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C05_ExplicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C06_ExplicitlyWait.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day09_switchingWindows_actions/C05_KontrolsuzAcilanWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day09_switchingWindows_actions/C05_KontrolsuzAcilanWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C07_FakeBilgilerleFormDoldurma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C07_FakeBilgilerleFormDoldurma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C01_FileExistTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C01_FileExistTesti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C03_FileUploadTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C03_FileUploadTesti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/c04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/c06.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MuratDonmezdemir"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MuratDonmezdemir&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MuratDonmezdemir/Junit-dersleri.git",
-    "accountId": "c986fdda-0eb3-404f-8394-1ed7405bcc89"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MuratDonmezdemir/Junit-dersleri.git&quot;,
+    &quot;accountId&quot;: &quot;c986fdda-0eb3-404f-8394-1ed7405bcc89&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -62,6 +62,7 @@
     "JUnit.C01_DoubleClick.test01.executor": "Run",
     "JUnit.C01_FileExistTesti.executor": "Run",
     "JUnit.C01_FileExistTesti.test01.executor": "Run",
+    "JUnit.C01_FileExistTesti.test02.executor": "Run",
     "JUnit.C01_JsAlerts.executor": "Run",
     "JUnit.C01_SetupVeTeardownMethodlari.executor": "Run",
     "JUnit.C01_SetupVeTeardownMethodlari.wisequarterTesti.executor": "Run",
@@ -95,9 +96,12 @@
     "JUnit.C04_CheckBox.executor": "Run",
     "JUnit.C04_IFrame.test01.executor": "Run",
     "JUnit.C04_Iframe.test01.executor": "Run",
+    "JUnit.C04_ImplicitlyWaitIleBekleme.executor": "Run",
     "JUnit.C04_KeyboardActions.executor": "Run",
     "JUnit.C04_OtomatikSonucRaporlama.executor": "Run",
     "JUnit.C05_Assertions.executor": "Run",
+    "JUnit.C05_ExplicitlyWait.executor": "Run",
+    "JUnit.C05_ExplicitlyWait.explicitWaitTest.executor": "Run",
     "JUnit.C05_KontrolsuzAcilanWindow.executor": "Run",
     "JUnit.C05_KontrolsuzAcilanWindow.test01.executor": "Run",
     "JUnit.C05_RadioButton.executor": "Run",
@@ -107,6 +111,7 @@
     "JUnit.C05_iframe.executor": "Run",
     "JUnit.C05_iframe.test01.executor": "Run",
     "JUnit.C06_DropdownMenu.dropdownMenuTesti.executor": "Run",
+    "JUnit.C06_ExplicitlyWait.implicitlyWaitTesti.executor": "Run",
     "JUnit.C06_FakerClass.executor": "Run",
     "JUnit.C07_DropdownMenu.dropdownMenuTesti.executor": "Run",
     "JUnit.C07_DropdownMenu.executor": "Run",
@@ -144,8 +149,8 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C01_FileExistTesti">
-    <configuration name="C01_FileExistTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C06_ExplicitlyWait.implicitlyWaitTesti">
+    <configuration name="C01_FileExistTesti.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
@@ -155,28 +160,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
       <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C01_FileExistTesti" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_FileExistTesti.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team145_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day11_fileTestleri_Waits.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C01_FileExistTesti" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_DosyaYolunuDinamikhaleGetirme" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_ImplicitlyWaitIleBekleme" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
@@ -185,13 +175,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C02_DosyaYolunuDinamikhaleGetirme" />
+      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C04_ImplicitlyWaitIleBekleme" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_FileUploadTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_ExplicitlyWait" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
@@ -200,13 +190,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C03_FileUploadTesti" />
+      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C05_ExplicitlyWait" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_FileUploadTesti.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_ExplicitlyWait.explicitWaitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
@@ -215,8 +205,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C03_FileUploadTesti" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C05_ExplicitlyWait" />
+      <option name="METHOD_NAME" value="explicitWaitTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_ExplicitlyWait.implicitlyWaitTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11_fileTestleri_Waits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
+      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C06_ExplicitlyWait" />
+      <option name="METHOD_NAME" value="implicitlyWaitTesti" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -224,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C01_FileExistTesti" />
-        <item itemvalue="JUnit.C03_FileUploadTesti.test01" />
-        <item itemvalue="JUnit.C01_FileExistTesti.test01" />
-        <item itemvalue="JUnit.C02_DosyaYolunuDinamikhaleGetirme" />
-        <item itemvalue="JUnit.C03_FileUploadTesti" />
+        <item itemvalue="JUnit.C06_ExplicitlyWait.implicitlyWaitTesti" />
+        <item itemvalue="JUnit.C05_ExplicitlyWait.explicitWaitTest" />
+        <item itemvalue="JUnit.C04_ImplicitlyWaitIleBekleme" />
+        <item itemvalue="JUnit.C01_FileExistTesti.test02" />
+        <item itemvalue="JUnit.C05_ExplicitlyWait" />
       </list>
     </recent_temporary>
   </component>
