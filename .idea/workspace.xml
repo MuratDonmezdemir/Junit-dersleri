@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd727e7a-c3c5-46f5-ad25-e2592a536014" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C04_ImplicitlyWaitIleBekleme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C05_ExplicitlyWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C06_ExplicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day12_cookies_webTables/C01_Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day12_cookies_webTables/C02_WebTables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C01_FileExistTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C01_FileExistTesti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C03_FileUploadTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C03_FileUploadTesti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/c04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/c06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C07_FakeBilgilerleFormDoldurma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C07_FakeBilgilerleFormDoldurma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C06_ExplicitlyWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C06_ExplicitlyWait.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +66,14 @@
     "JUnit.C01_Window_SayfaKarsilastirmasi.executor": "Run",
     "JUnit.C01_Window_SayfaKarsilastirmasi.test01.executor": "Run",
     "JUnit.C01_Windows_SayfaKarsilastirmasi.test01.executor": "Run",
+    "JUnit.C01_cookies.cookiesTesti.executor": "Run",
+    "JUnit.C01_cookies.executor": "Run",
     "JUnit.C02_Assertions.executor": "Run",
     "JUnit.C02_BeforeVeAfterNotasyonlari.executor": "Run",
     "JUnit.C02_DosyaYolunuDinamikHaleGetirme.executor": "Run",
     "JUnit.C02_DosyaYolunuDinamikHaleGetirme.test01.executor": "Run",
     "JUnit.C02_DosyaYolunuDinamikhaleGetirme.executor": "Run",
+    "JUnit.C02_DosyaYolunuDinamikhaleGetirme.test01.executor": "Run",
     "JUnit.C02_DragAndDrop.executor": "Run",
     "JUnit.C02_JsAlerts.executor": "Run",
     "JUnit.C02_YeniWindowOlusturma.executor": "Run",
@@ -126,6 +126,8 @@
     "JUnit.P03_SignInTest.executor": "Run",
     "JUnit.P03_SignInTest.negatifLogin.executor": "Run",
     "JUnit.P03_SignInTest1.executor": "Run",
+    "JUnit.c02_WebTables.executor": "Run",
+    "JUnit.c02_WebTables.testWebTables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -135,7 +137,8 @@
     "onboarding.tips.debug.path": "C:/JavaDemos/variable/Team145_JUnit/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -149,64 +152,33 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C06_ExplicitlyWait.implicitlyWaitTesti">
-    <configuration name="C01_FileExistTesti.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.c02_WebTables">
+    <configuration name="C01_cookies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11_fileTestleri_Waits.*" />
+          <option name="PATTERN" value="day12_cookies_webTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C01_FileExistTesti" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_ImplicitlyWaitIleBekleme" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team145_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day11_fileTestleri_Waits.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C04_ImplicitlyWaitIleBekleme" />
+      <option name="PACKAGE_NAME" value="day12_cookies_webTables" />
+      <option name="MAIN_CLASS_NAME" value="day12_cookies_webTables.C01_cookies" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_ExplicitlyWait" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_cookies.cookiesTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11_fileTestleri_Waits.*" />
+          <option name="PATTERN" value="day12_cookies_webTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C05_ExplicitlyWait" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C05_ExplicitlyWait.explicitWaitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team145_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day11_fileTestleri_Waits.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C05_ExplicitlyWait" />
-      <option name="METHOD_NAME" value="explicitWaitTest" />
+      <option name="PACKAGE_NAME" value="day12_cookies_webTables" />
+      <option name="MAIN_CLASS_NAME" value="day12_cookies_webTables.C01_cookies" />
+      <option name="METHOD_NAME" value="cookiesTesti" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -228,13 +200,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="c02_WebTables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12_cookies_webTables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day12_cookies_webTables" />
+      <option name="MAIN_CLASS_NAME" value="day12_cookies_webTables.c02_WebTables" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c02_WebTables.testWebTables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12_cookies_webTables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day12_cookies_webTables" />
+      <option name="MAIN_CLASS_NAME" value="day12_cookies_webTables.c02_WebTables" />
+      <option name="METHOD_NAME" value="testWebTables" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.c02_WebTables" />
+        <item itemvalue="JUnit.c02_WebTables.testWebTables" />
         <item itemvalue="JUnit.C06_ExplicitlyWait.implicitlyWaitTesti" />
-        <item itemvalue="JUnit.C05_ExplicitlyWait.explicitWaitTest" />
-        <item itemvalue="JUnit.C04_ImplicitlyWaitIleBekleme" />
-        <item itemvalue="JUnit.C01_FileExistTesti.test02" />
-        <item itemvalue="JUnit.C05_ExplicitlyWait" />
+        <item itemvalue="JUnit.C01_cookies" />
+        <item itemvalue="JUnit.C01_cookies.cookiesTesti" />
       </list>
     </recent_temporary>
   </component>

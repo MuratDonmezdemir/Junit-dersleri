@@ -42,6 +42,8 @@ public class C06_ExplicitlyWait {
                 .click();
 
         //5. It’s back mesajinin gorundugunu test edin
+        // ıt ' s back elementi görünür olmadığında n locate edemiyorum
+
 
         WebElement itsBackElementi = driver.findElement(By.id("message"));
 
