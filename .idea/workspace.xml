@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd727e7a-c3c5-46f5-ad25-e2592a536014" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day12_cookies_webTables/C01_Cookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day12_cookies_webTables/C02_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/P01_externalDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/P02_search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C07_FakeBilgilerleFormDoldurma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day10_actionsClass/C07_FakeBilgilerleFormDoldurma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C06_ExplicitlyWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day11_fileTestleri_Waits/C06_ExplicitlyWait.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,10 @@
     "Application.C01_mevenIleTest.executor": "Run",
     "Application.C02_FarkliBirWebDriverVerilirse.executor": "Run",
     "Application.C02_FarkliBirWebDriverVerilirse2.executor": "Run",
+    "Application.P01_externalDriver.executor": "Run",
     "Application.P10_buSoruCozulecek.executor": "Run",
+    "Application.SearchTest.executor": "Run",
+    "Application.T145_JunitPractice.SearchTest.executor": "Run",
     "JUnit.C01_AssertionVeTeardown.executor": "Run",
     "JUnit.C01_DoubleClick.executor": "Run",
     "JUnit.C01_DoubleClick.test01.executor": "Run",
@@ -119,10 +120,13 @@
     "JUnit.C07_FakeBilgilerleFormDoldurma.test01.executor": "Run",
     "JUnit.JUnitTestAutomation.executor": "Run",
     "JUnit.JUnitTestAutomation.testSignUpAndLogin.executor": "Run",
+    "JUnit.MovieSearchTest.searchAngryMen.executor": "Run",
     "JUnit.P01_Notasyon.executor": "Run",
     "JUnit.P01_Notasyon.testC.executor": "Run",
     "JUnit.P02_Notasyon.executor": "Run",
     "JUnit.P02_Notasyon2.executor": "Run",
+    "JUnit.P02_search.executor": "Run",
+    "JUnit.P02_search.testVizontele.executor": "Run",
     "JUnit.P03_SignInTest.executor": "Run",
     "JUnit.P03_SignInTest.negatifLogin.executor": "Run",
     "JUnit.P03_SignInTest1.executor": "Run",
@@ -152,92 +156,78 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.c02_WebTables">
-    <configuration name="C01_cookies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.P02_search">
+    <configuration name="P01_externalDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T145_JunitPractice.P01_externalDriver" />
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12_cookies_webTables.*" />
+          <option name="PATTERN" value="T145_JunitPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day12_cookies_webTables" />
-      <option name="MAIN_CLASS_NAME" value="day12_cookies_webTables.C01_cookies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchTest" />
+      <module name="Team145_JUnit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T145_JunitPractice.SearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T145_JunitPractice.SearchTest" />
+      <module name="Team145_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T145_JunitPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieSearchTest.searchAngryMen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T145_JunitPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="T145_JunitPractice" />
+      <option name="MAIN_CLASS_NAME" value="T145_JunitPractice.MovieSearchTest" />
+      <option name="METHOD_NAME" value="searchAngryMen" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P02_search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T145_JunitPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="T145_JunitPractice" />
+      <option name="MAIN_CLASS_NAME" value="T145_JunitPractice.P02_search" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_cookies.cookiesTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team145_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day12_cookies_webTables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day12_cookies_webTables" />
-      <option name="MAIN_CLASS_NAME" value="day12_cookies_webTables.C01_cookies" />
-      <option name="METHOD_NAME" value="cookiesTesti" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C06_ExplicitlyWait.implicitlyWaitTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team145_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day11_fileTestleri_Waits.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day11_fileTestleri_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day11_fileTestleri_Waits.C06_ExplicitlyWait" />
-      <option name="METHOD_NAME" value="implicitlyWaitTesti" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="c02_WebTables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team145_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day12_cookies_webTables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day12_cookies_webTables" />
-      <option name="MAIN_CLASS_NAME" value="day12_cookies_webTables.c02_WebTables" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="c02_WebTables.testWebTables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team145_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day12_cookies_webTables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day12_cookies_webTables" />
-      <option name="MAIN_CLASS_NAME" value="day12_cookies_webTables.c02_WebTables" />
-      <option name="METHOD_NAME" value="testWebTables" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.c02_WebTables" />
-        <item itemvalue="JUnit.c02_WebTables.testWebTables" />
-        <item itemvalue="JUnit.C06_ExplicitlyWait.implicitlyWaitTesti" />
-        <item itemvalue="JUnit.C01_cookies" />
-        <item itemvalue="JUnit.C01_cookies.cookiesTesti" />
+        <item itemvalue="JUnit.P02_search" />
+        <item itemvalue="JUnit.MovieSearchTest.searchAngryMen" />
+        <item itemvalue="Application.P01_externalDriver" />
+        <item itemvalue="Application.T145_JunitPractice.SearchTest" />
+        <item itemvalue="Application.SearchTest" />
       </list>
     </recent_temporary>
   </component>
