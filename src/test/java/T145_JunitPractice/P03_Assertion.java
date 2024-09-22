@@ -1,4 +1,3 @@
-
 package T145_JunitPractice;
 import com.github.javafaker.Faker;
 import org.junit.jupiter.api.AfterAll;
@@ -9,6 +8,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import utilities.ReusableMethods;
 import java.time.Duration;
 public class P03_Assertion {
     // https://www.automationexercise.com/ adresine gidin
@@ -31,30 +31,31 @@ public class P03_Assertion {
     public  static void tearDown(){driver.quit();}
     @Test
     public void userRegister(){
-        driver.findElement(By.xpath("//*[@data-qa='signup-name']")).sendKeys("Karamurat");
-        driver.findElement(By.xpath("//*[@ data-qa='signup-email']")).sendKeys("007tr@uceles.bond" + Keys.ENTER);
+        driver.findElement(By.xpath("//*[@data-qa='signup-name']")).sendKeys("murat");
+        driver.findElement(By.xpath("//*[@ data-qa='signup-email']")).sendKeys("kiok@uceles.bond" + Keys.ENTER);
         driver.findElement(By.id("id_gender1")).click();
         driver.findElement(By.id("password")).sendKeys("258963");
         driver.findElement(By.id("newsletter")).click();
         driver.findElement(By.id("first_name")).sendKeys("Murat");
-        driver.findElement(By.id("last_name")).sendKeys("Karababa");
+        driver.findElement(By.id("last_name")).sendKeys("dnmzdmr");
         driver.findElement(By.id("address1")).sendKeys("Atatürk Bulvarı");
-        driver.findElement(By.id("state")).sendKeys("Turkey");
-        driver.findElement(By.id("city")).sendKeys("Van");
-        driver.findElement(By.id("zipcode")).sendKeys("65000");
-        driver.findElement(By.id("mobile_number")).sendKeys("555555545"+Keys.ENTER);
-        String actualResult=driver.findElement(By.xpath("//*[@data-qa='account-created']")).getText();
+        driver.findElement(By.id("state")).sendKeys("NonUsa");
+        driver.findElement(By.id("city")).sendKeys("Kırıkkale");
+        driver.findElement(By.id("zipcode")).sendKeys("71100");
+        driver.findElement(By.id("mobile_number")).sendKeys("555555555"+Keys.ENTER);
+        String actualResult=driver.findElement(By.xpath("//b")).getText();
         System.out.println(actualResult);
-        if (actualResult=="Account Created!"){
-            System.out.println("Hesap başarıyla oluşuruldu.");
+        if (actualResult.equalsIgnoreCase("ACCOUNT CREATED!")){
+            System.out.println("Hesap başarıyla oluşturuldu.");
         }else{
             System.out.println("Hesap Oluşturulamadı");
         }
-        // signUpButton.click();
-        driver.findElement(By.xpath("//*[@class='fa fa-trash-o']")).click();
-        String actualDelete=driver.findElement(By.xpath("//*[@data-qa='account-deleted']")).getText();
+        driver.findElement(By.xpath("//a[@href='/login']")).click();
+        //a href="/delete_account
+        driver.findElement(By.xpath("//a[@href='/delete_account']")).click();
+        String actualDelete=driver.findElement(By.xpath("//b")).getText();
         System.out.println(actualDelete);
-        if (actualResult=="Account Deleted!"){
+        if (actualDelete.equalsIgnoreCase("Account Deleted!")){
             System.out.println("Hesap başarıyla silindi.");
         }else{
             System.out.println("Hesap Silinemedi");
