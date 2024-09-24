@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd727e7a-c3c5-46f5-ad25-e2592a536014" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day13_WebTables_ExcelOtomasyonu/C01_KlasikOlmayanWebTablolari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day13_WebTables_ExcelOtomasyonu/C02_ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day13_WebTables_ExcelOtomasyonu/C03_ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day13_WebTables_ExcelOtomasyonu/C04_FizikiKullanilanSatirSayisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day13_WebTables_ExcelOtomasyonu/ulkeler.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day14_writeExcel_Screen_jsExcecutor/C01_WriteExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day14_writeExcel_Screen_jsExcecutor/C02_Screenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day14_writeExcel_Screen_jsExcecutor/C03_ScreenshotAlma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day14_writeExcel_Screen_jsExcecutor/C04_WebElementScreenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day14_writeExcel_Screen_jsExcecutor/C05_WebElementScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_writeExcel_Screen_jsExcecutor/C06_JavaScriptExecutor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day14_writeExcel_Screen_jsExcecutor/C06_.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +120,7 @@
     "JUnit.C05_KontrolsuzAcilanWindow.test01.executor": "Run",
     "JUnit.C05_RadioButton.executor": "Run",
     "JUnit.C05_RadioButton.yazidanSecmeTesti.executor": "Run",
+    "JUnit.C05_WebElementScreenshot.executor": "Run",
     "JUnit.C05_iFrame.executor": "Run",
     "JUnit.C05_iFrame.test01.executor": "Run",
     "JUnit.C05_iframe.executor": "Run",
@@ -137,6 +128,7 @@
     "JUnit.C06_DropdownMenu.dropdownMenuTesti.executor": "Run",
     "JUnit.C06_ExplicitlyWait.implicitlyWaitTesti.executor": "Run",
     "JUnit.C06_FakerClass.executor": "Run",
+    "JUnit.C06_JavaScriptExecutor.executor": "Run",
     "JUnit.C07_DropdownMenu.dropdownMenuTesti.executor": "Run",
     "JUnit.C07_DropdownMenu.executor": "Run",
     "JUnit.C07_FakeBilgilerleFormDoldurma.executor": "Run",
@@ -188,7 +180,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C05_WebElementScreenshot">
+  <component name="RunManager" selected="JUnit.C06_JavaScriptExecutor">
     <configuration name="C01_WriteExcel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
@@ -199,21 +191,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="day14_writeExcel_Screen_jsExcecutor" />
       <option name="MAIN_CLASS_NAME" value="day14_writeExcel_Screen_jsExcecutor.C01_WriteExcel" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_ScreenShot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team145_JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day14_writeExcel_Screen_jsExcecutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day14_writeExcel_Screen_jsExcecutor" />
-      <option name="MAIN_CLASS_NAME" value="day14_writeExcel_Screen_jsExcecutor.C02_ScreenShot" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -264,13 +241,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C06_JavaScriptExecutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team145_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day14_writeExcel_Screen_jsExcecutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day14_writeExcel_Screen_jsExcecutor" />
+      <option name="MAIN_CLASS_NAME" value="day14_writeExcel_Screen_jsExcecutor.C06_JavaScriptExecutor" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C06_JavaScriptExecutor" />
         <item itemvalue="JUnit.C05_WebElementScreenshot" />
         <item itemvalue="JUnit.C01_WriteExcel" />
         <item itemvalue="JUnit.C03_ScreenshotAlma" />
         <item itemvalue="JUnit.C02_Screenshot" />
-        <item itemvalue="JUnit.C02_ScreenShot" />
       </list>
     </recent_temporary>
   </component>
