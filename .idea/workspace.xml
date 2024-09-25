@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd727e7a-c3c5-46f5-ad25-e2592a536014" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day14_writeExcel_Screen_jsExcecutor/C06_JavaScriptExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day14_writeExcel_Screen_jsExcecutor/C06_.java" beforeDir="false" />
-    </list>
+    <list default="true" id="bd727e7a-c3c5-46f5-ad25-e2592a536014" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
