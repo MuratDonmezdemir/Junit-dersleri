@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd727e7a-c3c5-46f5-ad25-e2592a536014" name="Changes" comment="" />
+    <list default="true" id="bd727e7a-c3c5-46f5-ad25-e2592a536014" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/P03_SignInTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/day02_Assertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/day03_checkBox_Amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/day04_jpractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/P01_externalDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/P01_externalDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/P02_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/T145_JunitPractice/P02_search_Kutusu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day07_assertions_testBaseClass/C07_DropdownMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day07_assertions_testBaseClass/C07_DropdownMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day09_switchingWindows_actions/C06_KontrolsuzWindowGecisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day09_switchingWindows_actions/C06_KontrolsuzWindowGecisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day13_WebTables_ExcelOtomasyonu/ulkeler.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day13_WebTables_ExcelOtomasyonu/ulkeler.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day14_writeExcel_Screen_jsExcecutor/C05_WebElementScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day14_writeExcel_Screen_jsExcecutor/C05_WebElementScreenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,128 +55,134 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.C01_mevenIleTest.executor": "Run",
-    "Application.C02_FarkliBirWebDriverVerilirse.executor": "Run",
-    "Application.C02_FarkliBirWebDriverVerilirse2.executor": "Run",
-    "Application.P01_externalDriver.executor": "Run",
-    "Application.P10_buSoruCozulecek.executor": "Run",
-    "Application.SearchTest.executor": "Run",
-    "Application.T145_JunitPractice.SearchTest.executor": "Run",
-    "JUnit.AutomationExerciseTest.executor": "Run",
-    "JUnit.C01.executor": "Run",
-    "JUnit.C01_AssertionVeTeardown.executor": "Run",
-    "JUnit.C01_Cookies.executor": "Run",
-    "JUnit.C01_DoubleClick.executor": "Run",
-    "JUnit.C01_DoubleClick.test01.executor": "Run",
-    "JUnit.C01_FileExistTesti.executor": "Run",
-    "JUnit.C01_FileExistTesti.test01.executor": "Run",
-    "JUnit.C01_FileExistTesti.test02.executor": "Run",
-    "JUnit.C01_JsAlerts.executor": "Run",
-    "JUnit.C01_KlasikOlmayanWebTablolari.executor": "Run",
-    "JUnit.C01_KlasikOlmayanWebTablolari.test01.executor": "Run",
-    "JUnit.C01_SetupVeTeardownMethodlari.executor": "Run",
-    "JUnit.C01_SetupVeTeardownMethodlari.wisequarterTesti.executor": "Run",
-    "JUnit.C01_Window_SayfaKarsilastirmasi.executor": "Run",
-    "JUnit.C01_Window_SayfaKarsilastirmasi.test01.executor": "Run",
-    "JUnit.C01_Windows_SayfaKarsilastirmasi.test01.executor": "Run",
-    "JUnit.C01_WriteExcel.executor": "Run",
-    "JUnit.C01_cookies.cookiesTesti.executor": "Run",
-    "JUnit.C01_cookies.executor": "Run",
-    "JUnit.C02_Assertions.executor": "Run",
-    "JUnit.C02_BeforeVeAfterNotasyonlari.executor": "Run",
-    "JUnit.C02_DosyaYolunuDinamikHaleGetirme.executor": "Run",
-    "JUnit.C02_DosyaYolunuDinamikHaleGetirme.test01.executor": "Run",
-    "JUnit.C02_DosyaYolunuDinamikhaleGetirme.executor": "Run",
-    "JUnit.C02_DosyaYolunuDinamikhaleGetirme.test01.executor": "Run",
-    "JUnit.C02_DragAndDrop.executor": "Run",
-    "JUnit.C02_JsAlerts.executor": "Run",
-    "JUnit.C02_ReadExcel.executor": "Run",
-    "JUnit.C02_ReadExcel.test01.executor": "Run",
-    "JUnit.C02_ScreenShot.executor": "Run",
-    "JUnit.C02_Screenshot.executor": "Run",
-    "JUnit.C02_YeniWindowOlusturma.executor": "Run",
-    "JUnit.C02_jsAlerts.executor": "Run",
-    "JUnit.C02_jsAlerts.test01.executor": "Run",
-    "JUnit.C03_BasicAuthentication.executor": "Run",
-    "JUnit.C03_BasicAuthentication.test01.executor": "Run",
-    "JUnit.C03_BeforeVeAfterNotasyonlari (1).executor": "Run",
-    "JUnit.C03_BeforeVeAfterNotasyonlari.executor": "Run",
-    "JUnit.C03_BeforeVeAfterNotasyonlari.test01.executor": "Run",
-    "JUnit.C03_BeforeVeAfterNotasyonlari.test03.executor": "Run",
-    "JUnit.C03_FileUploadTesti.executor": "Run",
-    "JUnit.C03_FileUploadTesti.test01.executor": "Run",
-    "JUnit.C03_JUnit_TestNotasyonu.test01.executor": "Run",
-    "JUnit.C03_JUnit_TestNotasyonu.test02.executor": "Run",
-    "JUnit.C03_JUnit_TestNotasyonu.test03.executor": "Run",
-    "JUnit.C03_MoveToElement.executor": "Run",
-    "JUnit.C03_ReadExcel.executor": "Run",
-    "JUnit.C03_ReadExcel.readExcelTest.executor": "Run",
-    "JUnit.C03_ScreenshotAlma.executor": "Run",
-    "JUnit.C03_TestBaseKullanimi.aramaTesti.executor": "Run",
-    "JUnit.C03_TestBaseKullanimi.executor": "Run",
-    "JUnit.C04_CheckBox.executor": "Run",
-    "JUnit.C04_IFrame.test01.executor": "Run",
-    "JUnit.C04_Iframe.test01.executor": "Run",
-    "JUnit.C04_ImplicitlyWaitIleBekleme.executor": "Run",
-    "JUnit.C04_KeyboardActions.executor": "Run",
-    "JUnit.C04_OtomatikSonucRaporlama.executor": "Run",
-    "JUnit.C05_Assertions.executor": "Run",
-    "JUnit.C05_ExplicitlyWait.executor": "Run",
-    "JUnit.C05_ExplicitlyWait.explicitWaitTest.executor": "Run",
-    "JUnit.C05_KontrolsuzAcilanWindow.executor": "Run",
-    "JUnit.C05_KontrolsuzAcilanWindow.test01.executor": "Run",
-    "JUnit.C05_RadioButton.executor": "Run",
-    "JUnit.C05_RadioButton.yazidanSecmeTesti.executor": "Run",
-    "JUnit.C05_WebElementScreenshot.executor": "Run",
-    "JUnit.C05_iFrame.executor": "Run",
-    "JUnit.C05_iFrame.test01.executor": "Run",
-    "JUnit.C05_iframe.executor": "Run",
-    "JUnit.C05_iframe.test01.executor": "Run",
-    "JUnit.C06_DropdownMenu.dropdownMenuTesti.executor": "Run",
-    "JUnit.C06_ExplicitlyWait.implicitlyWaitTesti.executor": "Run",
-    "JUnit.C06_FakerClass.executor": "Run",
-    "JUnit.C06_JavaScriptExecutor.executor": "Run",
-    "JUnit.C07_DropdownMenu.dropdownMenuTesti.executor": "Run",
-    "JUnit.C07_DropdownMenu.executor": "Run",
-    "JUnit.C07_FakeBilgilerleFormDoldurma.executor": "Run",
-    "JUnit.C07_FakeBilgilerleFormDoldurma.test01.executor": "Run",
-    "JUnit.JUnitTestAutomation.executor": "Run",
-    "JUnit.JUnitTestAutomation.testSignUpAndLogin.executor": "Run",
-    "JUnit.MovieSearchTest.searchAngryMen.executor": "Run",
-    "JUnit.P003_Assertion.testUserRegistration.executor": "Run",
-    "JUnit.P01_Notasyon.executor": "Run",
-    "JUnit.P01_Notasyon.testC.executor": "Run",
-    "JUnit.P02_AutomationExercise (1).executor": "Run",
-    "JUnit.P02_AutomationExercise.executor": "Run",
-    "JUnit.P02_AutomationExercise.testUserRegistrationAndDeletion.executor": "Run",
-    "JUnit.P02_Notasyon.executor": "Run",
-    "JUnit.P02_Notasyon2.executor": "Run",
-    "JUnit.P02_search.executor": "Run",
-    "JUnit.P02_search.search02.executor": "Run",
-    "JUnit.P02_search.testVizontele.executor": "Run",
-    "JUnit.P03_Assertion.executor": "Run",
-    "JUnit.P03_Assertion.userRegister.executor": "Run",
-    "JUnit.P03_SignInTest.executor": "Run",
-    "JUnit.P03_SignInTest.negatifLogin.executor": "Run",
-    "JUnit.P03_SignInTest1.executor": "Run",
-    "JUnit.UserRegistrationAndDeletionTest.executor": "Run",
-    "JUnit.c02_WebTables.executor": "Run",
-    "JUnit.c02_WebTables.testWebTables.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/JavaDemos/variable/Team145_JUnit/src/test/java",
-    "onboarding.tips.debug.path": "C:/JavaDemos/variable/Team145_JUnit/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.C01_mevenIleTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C02_FarkliBirWebDriverVerilirse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C02_FarkliBirWebDriverVerilirse2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P01_externalDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P10_buSoruCozulecek.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.T145_JunitPractice.SearchTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AutomationExerciseTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_AssertionVeTeardown.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_Cookies.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_DoubleClick.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_DoubleClick.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_FileExistTesti.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_FileExistTesti.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_FileExistTesti.test02.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_JsAlerts.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_KlasikOlmayanWebTablolari.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_KlasikOlmayanWebTablolari.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_SetupVeTeardownMethodlari.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_SetupVeTeardownMethodlari.wisequarterTesti.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_Window_SayfaKarsilastirmasi.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_Window_SayfaKarsilastirmasi.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_Windows_SayfaKarsilastirmasi.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_WriteExcel.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_WriteExcel.writeExcelTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_cookies.cookiesTesti.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C01_cookies.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_Assertions.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_BeforeVeAfterNotasyonlari.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_DosyaYolunuDinamikHaleGetirme.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_DosyaYolunuDinamikHaleGetirme.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_DosyaYolunuDinamikhaleGetirme.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_DosyaYolunuDinamikhaleGetirme.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_DragAndDrop.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_JsAlerts.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_ReadExcel.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_ReadExcel.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_ScreenShot.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_Screenshot.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_YeniWindowOlusturma.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_jsAlerts.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C02_jsAlerts.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_BasicAuthentication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_BasicAuthentication.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_BeforeVeAfterNotasyonlari (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_BeforeVeAfterNotasyonlari.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_BeforeVeAfterNotasyonlari.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_BeforeVeAfterNotasyonlari.test03.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_FileUploadTesti.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_FileUploadTesti.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_JUnit_TestNotasyonu.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_JUnit_TestNotasyonu.test02.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_JUnit_TestNotasyonu.test03.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_MoveToElement.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_ReadExcel.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_ReadExcel.readExcelTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_ScreenshotAlma.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_TestBaseKullanimi.aramaTesti.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C03_TestBaseKullanimi.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C04_CheckBox.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C04_IFrame.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C04_Iframe.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C04_ImplicitlyWaitIleBekleme.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C04_KeyboardActions.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C04_OtomatikSonucRaporlama.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C04_WebElementScreenshot.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C05_Assertions.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C05_ExplicitlyWait.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C05_ExplicitlyWait.explicitWaitTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C05_KontrolsuzAcilanWindow.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C05_KontrolsuzAcilanWindow.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C05_RadioButton.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C05_RadioButton.yazidanSecmeTesti.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C05_WebElementScreenshot.aramaTesti.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C05_WebElementScreenshot.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C05_iFrame.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C05_iFrame.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C05_iframe.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C05_iframe.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C06_DropdownMenu.dropdownMenuTesti.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C06_ExplicitlyWait.implicitlyWaitTesti.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C06_FakerClass.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C06_JavaScriptExecutor.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C07_DropdownMenu.dropdownMenuTesti.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C07_DropdownMenu.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C07_FakeBilgilerleFormDoldurma.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.C07_FakeBilgilerleFormDoldurma.test01.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JUnitTestAutomation.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JUnitTestAutomation.testSignUpAndLogin.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MovieSearchTest.searchAngryMen.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P003_Assertion.testUserRegistration.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_Notasyon.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P01_Notasyon.testC.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_AutomationExercise (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_AutomationExercise.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_AutomationExercise.testUserRegistrationAndDeletion.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_Notasyon.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_Notasyon2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_search.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_search.search02.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_search.testVizontele.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P02_search_Kutusu.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P03_Assertion.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P03_Assertion.userRegister.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P03_Assertions.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P03_SignInTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P03_SignInTest.negatifLogin.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P03_SignInTest.pozitifLogin.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.P03_SignInTest1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserRegistrationAndDeletionTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.c02_WebTables.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.c02_WebTables.testWebTables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/JavaDemos/variable/Team145_JUnit/src/test/java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/JavaDemos/variable/Team145_JUnit/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="day07_assertions_testBaseClass" />
@@ -176,89 +195,90 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C06_JavaScriptExecutor">
-    <configuration name="C01_WriteExcel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.P02_dropDown">
+    <configuration name="C07_DropdownMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14_writeExcel_Screen_jsExcecutor.*" />
+          <option name="PATTERN" value="day07_assertions_testBaseClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day14_writeExcel_Screen_jsExcecutor" />
-      <option name="MAIN_CLASS_NAME" value="day14_writeExcel_Screen_jsExcecutor.C01_WriteExcel" />
+      <option name="PACKAGE_NAME" value="day07_assertions_testBaseClass" />
+      <option name="MAIN_CLASS_NAME" value="day07_assertions_testBaseClass.C07_DropdownMenu" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Screenshot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P02_dropDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14_writeExcel_Screen_jsExcecutor.*" />
+          <option name="PATTERN" value="T145_JunitPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day14_writeExcel_Screen_jsExcecutor" />
-      <option name="MAIN_CLASS_NAME" value="day14_writeExcel_Screen_jsExcecutor.C02_Screenshot" />
+      <option name="PACKAGE_NAME" value="T145_JunitPractice" />
+      <option name="MAIN_CLASS_NAME" value="T145_JunitPractice.P02_dropDown" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_ScreenshotAlma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P03_Assertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14_writeExcel_Screen_jsExcecutor.*" />
+          <option name="PATTERN" value="T145_JunitPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day14_writeExcel_Screen_jsExcecutor" />
-      <option name="MAIN_CLASS_NAME" value="day14_writeExcel_Screen_jsExcecutor.C03_ScreenshotAlma" />
+      <option name="PACKAGE_NAME" value="T145_JunitPractice" />
+      <option name="MAIN_CLASS_NAME" value="T145_JunitPractice.P03_Assertions" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_WebElementScreenshot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P03_SignInTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14_writeExcel_Screen_jsExcecutor.*" />
+          <option name="PATTERN" value="T145_JunitPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day14_writeExcel_Screen_jsExcecutor" />
-      <option name="MAIN_CLASS_NAME" value="day14_writeExcel_Screen_jsExcecutor.C05_WebElementScreenshot" />
+      <option name="PACKAGE_NAME" value="T145_JunitPractice" />
+      <option name="MAIN_CLASS_NAME" value="T145_JunitPractice.P03_SignInTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_JavaScriptExecutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P03_SignInTest.pozitifLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team145_JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14_writeExcel_Screen_jsExcecutor.*" />
+          <option name="PATTERN" value="T145_JunitPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day14_writeExcel_Screen_jsExcecutor" />
-      <option name="MAIN_CLASS_NAME" value="day14_writeExcel_Screen_jsExcecutor.C06_JavaScriptExecutor" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="T145_JunitPractice" />
+      <option name="MAIN_CLASS_NAME" value="T145_JunitPractice.P03_SignInTest" />
+      <option name="METHOD_NAME" value="pozitifLogin" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C06_JavaScriptExecutor" />
-        <item itemvalue="JUnit.C05_WebElementScreenshot" />
-        <item itemvalue="JUnit.C01_WriteExcel" />
-        <item itemvalue="JUnit.C03_ScreenshotAlma" />
-        <item itemvalue="JUnit.C02_Screenshot" />
+        <item itemvalue="JUnit.P02_dropDown" />
+        <item itemvalue="JUnit.C07_DropdownMenu" />
+        <item itemvalue="JUnit.P03_Assertions" />
+        <item itemvalue="JUnit.P03_SignInTest.pozitifLogin" />
+        <item itemvalue="JUnit.P03_SignInTest" />
       </list>
     </recent_temporary>
   </component>

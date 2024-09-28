@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class P02_search {
+public class P02_search_Kutusu {
     static WebDriver driver;
     WebElement searchbox;
     WebElement tools;
@@ -73,4 +73,6 @@ public class P02_search {
         film="Esaretin Bedeli";
         searchbox.sendKeys(film+ Keys.ENTER);
     }
+
+
 }

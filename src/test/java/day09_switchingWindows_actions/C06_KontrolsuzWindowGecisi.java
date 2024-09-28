@@ -9,13 +9,15 @@ import utilities.TestBase_Each;
 
 import java.util.List;
 
+import static utilities.ReusableMethods.*;
+
 public class C06_KontrolsuzWindowGecisi extends TestBase_Each {
 
     @Test
     public void test01(){
         //● https://testotomasyonu.com/addremove/ adresine gidin.
         driver.get("https://testotomasyonu.com/addremove/");
-        ReusableMethods.bekle(1);
+        bekle(1);
         //● Sayfadaki textin “Add/Remove Elements” olduğunu doğrulayın.
         String expectedyazi = "Add/Remove Elements";
         String actualyazi = driver.findElement(By.tagName("h2"))
@@ -37,9 +39,9 @@ public class C06_KontrolsuzWindowGecisi extends TestBase_Each {
         //● Electronics sayfasinin acildigini test edin
         // linki tikladigimizda kontrolsuz bir window acildigi icin
         // once o window'a gecmemiz gerekiyor
-        ReusableMethods.bekle(1);
+        bekle(1);
         ReusableMethods.switchToWindow(driver,"Test Otomasyonu - Electronics");
-        ReusableMethods.bekle(1);
+        bekle(1);
 
         // electronics sayfasinin acildigini test etmek icin Title'in Electronics icerdigini test edelim
 
@@ -71,6 +73,6 @@ public class C06_KontrolsuzWindowGecisi extends TestBase_Each {
 
         Assertions.assertTrue(actualUrl.contains(expectedUrlIcerik));
 
-        ReusableMethods.bekle(1);
+        bekle(1);
     }
 }

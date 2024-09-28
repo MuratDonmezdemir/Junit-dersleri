@@ -16,7 +16,7 @@ public class C05_WebElementScreenshot extends TestBase_Each {
 
         // testotomasyonu anasayfaya gidin
         driver.get("https://www.testotomasyonu.com");
-        ReusableMethods.bekle(1);
+        ReusableMethods.bekle(3);
 
         // url'in testotomasyonu icerdigini test edin
         String expectedUrlIcerik = "testotomasyonu";
@@ -47,7 +47,7 @@ public class C05_WebElementScreenshot extends TestBase_Each {
         // ilk urunu tiklayin
         driver.findElement(By.xpath("(//*[@class='prod-img'])[1]"))
                 .click();
-        ReusableMethods.bekle(1);
+        ReusableMethods.bekle(3);
         // acilan sayfada urun isminin case sensitive olmadan "phone" icerdigini test edin
 
         String expectedUrunIsimIcerigi = "phone";
